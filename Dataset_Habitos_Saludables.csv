@@ -1,0 +1,151 @@
+﻿id,sexo,edad,carrera,horas_sueno,calidad_sueno,desayuna_diario,frutas_verduras_dia,ultraprocesados_semana,actividad_fisica_min_semana,fumador,alcohol_frecuencia,estres_1_10,duerme_7omas,activo_150,consume_5fyv
+1,Mujer,21,Salud,6.3,Regular,Sí,2,4,195,No,Ocasional,5.9,No,Sí,No
+2,Hombre,22,Ingeniería,6.2,Mala,Sí,2,6,64,No,Frecuente,6.3,No,No,No
+3,Hombre,21,Ingeniería,4.7,Mala,Sí,1,6,151,No,Ocasional,6.7,No,Sí,No
+4,Hombre,19,Ciencias Sociales,6.0,Regular,No,2,7,98,No,Frecuente,9.6,No,No,No
+5,Mujer,23,Ciencias Sociales,6.2,Mala,Sí,3,4,109,No,Ocasional,2.4,No,No,No
+6,Mujer,23,Salud,7.3,Buena,Sí,4,5,163,No,Frecuente,9.0,Sí,Sí,No
+7,Mujer,23,Ingeniería,7.4,Buena,No,1,1,88,Sí,Nunca,3.4,Sí,No,No
+8,Hombre,20,Ciencias Sociales,9.2,Excelente,Sí,6,4,144,No,Ocasional,5.6,Sí,No,Sí
+9,Hombre,24,Ingeniería,8.0,Excelente,No,5,5,210,Sí,Ocasional,5.0,Sí,Sí,Sí
+10,Hombre,19,Administración,6.4,Mala,Sí,2,5,133,No,Ocasional,7.7,No,No,No
+11,Mujer,22,Ciencias Sociales,6.3,Regular,Sí,1,3,191,No,Ocasional,3.3,No,Sí,No
+12,Hombre,25,Salud,7.8,Buena,Sí,2,2,118,No,Ocasional,7.0,Sí,No,No
+13,Hombre,19,Salud,5.6,Buena,No,0,3,209,No,Nunca,10.0,No,Sí,No
+14,Mujer,20,Ciencias Sociales,9.1,Excelente,No,0,3,224,No,Nunca,3.2,Sí,Sí,No
+15,Mujer,21,Salud,7.5,Excelente,No,3,9,24,No,Ocasional,6.9,Sí,No,No
+16,Mujer,20,Ingeniería,6.2,Mala,No,3,5,91,No,Ocasional,5.3,No,No,No
+17,Mujer,18,Administración,5.1,Mala,No,4,3,177,No,Frecuente,7.4,No,Sí,No
+18,Mujer,21,Ingeniería,8.4,Regular,Sí,2,6,124,No,Ocasional,6.5,Sí,No,No
+19,Mujer,19,Ingeniería,6.9,Mala,Sí,4,6,155,No,Frecuente,5.3,No,Sí,No
+20,Mujer,22,Ciencias Sociales,8.3,Regular,No,1,3,112,No,Ocasional,7.0,Sí,No,No
+21,Hombre,20,Ingeniería,5.5,Mala,Sí,2,3,160,No,Ocasional,10.0,No,Sí,No
+22,Mujer,24,Ingeniería,6.5,Buena,Sí,0,3,126,No,Nunca,5.7,No,No,No
+23,Mujer,20,Administración,7.3,Regular,Sí,5,4,209,No,Ocasional,7.2,Sí,Sí,Sí
+24,Mujer,21,Ingeniería,6.9,Buena,Sí,3,8,149,No,Ocasional,4.0,No,No,No
+25,Mujer,23,Administración,6.4,Mala,Sí,1,7,164,No,Nunca,5.2,No,Sí,No
+26,Hombre,19,Administración,7.5,Buena,No,3,5,142,No,Ocasional,7.0,Sí,No,No
+27,Mujer,22,Salud,5.5,Regular,No,2,7,133,No,Frecuente,9.8,No,No,No
+28,Mujer,24,Salud,6.8,Buena,No,6,3,136,No,Ocasional,6.8,No,No,Sí
+29,Hombre,18,Salud,7.4,Buena,No,2,1,202,No,Ocasional,5.2,Sí,Sí,No
+30,Mujer,22,Salud,7.6,Regular,Sí,2,5,137,No,Ocasional,6.1,Sí,No,No
+31,Hombre,22,Salud,8.2,Regular,Sí,2,2,196,No,Nunca,3.4,Sí,Sí,No
+32,Mujer,23,Ciencias Sociales,6.1,Regular,Sí,5,4,259,No,Ocasional,7.4,No,Sí,Sí
+33,Mujer,19,Salud,5.5,Mala,No,3,2,208,No,Ocasional,8.0,No,Sí,No
+34,Hombre,19,Ingeniería,8.7,Excelente,Sí,6,2,137,No,Nunca,5.2,Sí,No,Sí
+35,Hombre,22,Administración,7.5,Excelente,No,3,3,231,No,Ocasional,4.9,Sí,Sí,No
+36,Hombre,22,Salud,6.3,Regular,No,0,2,158,Sí,Ocasional,7.1,No,Sí,No
+37,Mujer,22,Ciencias Sociales,8.2,Buena,No,1,6,33,No,Ocasional,5.7,Sí,No,No
+38,Mujer,22,Ingeniería,6.8,Mala,No,2,5,80,No,Frecuente,6.0,No,No,No
+39,Hombre,20,Salud,8.1,Buena,Sí,3,6,77,No,Nunca,10.0,Sí,No,No
+40,Mujer,22,Ciencias Sociales,7.1,Buena,No,3,2,126,No,Ocasional,5.6,Sí,No,No
+41,Mujer,22,Ciencias Sociales,9.2,Excelente,No,2,3,146,Sí,Ocasional,5.4,Sí,No,No
+42,Mujer,20,Administración,9.5,Excelente,Sí,3,1,237,No,Frecuente,4.6,Sí,Sí,No
+43,Mujer,25,Ciencias Sociales,6.6,Regular,No,4,5,163,No,Nunca,7.5,No,Sí,No
+44,Hombre,22,Ciencias Sociales,8.0,Excelente,No,2,4,153,No,Ocasional,5.8,Sí,Sí,No
+45,Mujer,19,Ingeniería,7.7,Excelente,No,2,4,181,No,Ocasional,4.6,Sí,Sí,No
+46,Hombre,22,Salud,7.9,Buena,No,2,8,58,No,Ocasional,9.0,Sí,No,No
+47,Mujer,19,Ciencias Sociales,6.0,Buena,No,0,2,158,Sí,Nunca,9.3,No,Sí,No
+48,Mujer,23,Ciencias Sociales,7.7,Excelente,Sí,5,7,187,No,Ocasional,5.1,Sí,Sí,Sí
+49,Mujer,23,Administración,8.1,Buena,Sí,0,5,64,No,Ocasional,2.6,Sí,No,No
+50,Mujer,20,Ingeniería,5.2,Regular,No,0,2,198,No,Ocasional,8.2,No,Sí,No
+51,Hombre,23,Ingeniería,5.9,Mala,No,3,1,174,No,Ocasional,5.3,No,Sí,No
+52,Hombre,22,Ciencias Sociales,4.7,Mala,Sí,3,6,142,Sí,Ocasional,8.5,No,No,No
+53,Hombre,23,Ingeniería,7.1,Buena,Sí,2,2,190,No,Ocasional,2.1,Sí,Sí,No
+54,Hombre,25,Administración,8.0,Excelente,No,2,3,290,No,Nunca,7.5,Sí,Sí,No
+55,Hombre,21,Administración,8.7,Excelente,No,4,3,175,No,Frecuente,3.8,Sí,Sí,No
+56,Hombre,20,Ingeniería,7.1,Mala,No,4,3,169,No,Ocasional,7.5,Sí,Sí,No
+57,Mujer,20,Ciencias Sociales,8.9,Excelente,Sí,4,4,120,No,Ocasional,6.1,Sí,No,No
+58,Mujer,20,Ciencias Sociales,4.9,Mala,No,1,9,98,No,Nunca,5.2,No,No,No
+59,Mujer,21,Salud,5.5,Mala,Sí,5,3,206,Sí,Nunca,5.5,No,Sí,Sí
+60,Mujer,22,Administración,6.7,Mala,No,6,5,98,No,Ocasional,7.4,No,No,Sí
+61,Mujer,22,Ingeniería,7.2,Excelente,Sí,0,8,139,No,Ocasional,6.7,Sí,No,No
+62,Mujer,23,Administración,6.6,Mala,No,4,7,119,No,Frecuente,7.6,No,No,No
+63,Hombre,21,Ingeniería,5.0,Regular,Sí,2,3,181,No,Nunca,10.0,No,Sí,No
+64,Mujer,24,Administración,6.9,Buena,No,1,3,163,Sí,Ocasional,3.1,No,Sí,No
+65,Mujer,21,Ingeniería,5.4,Mala,No,0,6,192,No,Ocasional,9.8,No,Sí,No
+66,Mujer,26,Salud,7.4,Excelente,No,3,6,132,No,Nunca,6.7,Sí,No,No
+67,Mujer,22,Administración,7.8,Buena,Sí,1,0,130,No,Nunca,4.4,Sí,No,No
+68,Hombre,20,Salud,6.1,Buena,Sí,0,3,126,Sí,Ocasional,4.1,No,No,No
+69,Mujer,19,Ingeniería,6.3,Regular,Sí,3,6,111,No,Ocasional,6.6,No,No,No
+70,Hombre,22,Administración,5.9,Mala,No,3,3,186,No,Ocasional,8.1,No,Sí,No
+71,Hombre,21,Administración,7.1,Excelente,No,1,2,207,No,Ocasional,5.6,Sí,Sí,No
+72,Mujer,22,Ingeniería,7.8,Buena,No,2,4,84,No,Ocasional,9.0,Sí,No,No
+73,Mujer,22,Ciencias Sociales,5.7,Mala,No,4,7,193,No,Nunca,3.9,No,Sí,No
+74,Hombre,21,Ingeniería,7.7,Excelente,No,2,3,230,No,Ocasional,5.8,Sí,Sí,No
+75,Hombre,20,Ingeniería,6.7,Regular,Sí,1,3,178,Sí,Frecuente,3.7,No,Sí,No
+76,Hombre,18,Ingeniería,6.3,Buena,No,0,3,258,No,Ocasional,7.0,No,Sí,No
+77,Hombre,20,Ciencias Sociales,6.5,Regular,No,1,7,122,Sí,Ocasional,8.7,No,No,No
+78,Mujer,23,Ciencias Sociales,5.8,Mala,No,3,2,77,No,Ocasional,5.8,No,No,No
+79,Mujer,22,Ciencias Sociales,5.9,Regular,No,1,6,47,No,Ocasional,2.1,No,No,No
+80,Mujer,19,Ciencias Sociales,6.1,Mala,Sí,2,2,227,Sí,Ocasional,6.7,No,Sí,No
+81,Hombre,22,Salud,9.3,Excelente,Sí,1,6,216,No,Ocasional,7.0,Sí,Sí,No
+82,Hombre,22,Ingeniería,6.9,Buena,No,5,5,152,Sí,Frecuente,6.9,No,Sí,Sí
+83,Mujer,20,Salud,6.5,Mala,Sí,1,3,175,No,Nunca,8.4,No,Sí,No
+84,Mujer,21,Ingeniería,7.1,Regular,No,4,2,73,No,Nunca,4.1,Sí,No,No
+85,Mujer,21,Ingeniería,7.3,Buena,Sí,2,3,270,Sí,Ocasional,7.1,Sí,Sí,No
+86,Mujer,19,Administración,6.6,Regular,No,0,5,152,No,Ocasional,8.4,No,Sí,No
+87,Hombre,22,Ingeniería,7.8,Buena,Sí,1,4,161,No,Nunca,2.7,Sí,Sí,No
+88,Hombre,22,Salud,8.0,Excelente,Sí,3,5,220,No,Ocasional,6.4,Sí,Sí,No
+89,Hombre,23,Salud,6.3,Buena,No,2,5,206,Sí,Nunca,5.3,No,Sí,No
+90,Mujer,23,Ciencias Sociales,6.8,Excelente,Sí,3,1,157,No,Ocasional,5.9,No,Sí,No
+91,Mujer,19,Ciencias Sociales,6.5,Mala,No,4,4,102,No,Ocasional,6.8,No,No,No
+92,Hombre,20,Salud,4.6,Mala,No,0,3,206,No,Ocasional,5.4,No,Sí,No
+93,Hombre,22,Salud,5.7,Mala,No,0,1,284,Sí,Ocasional,5.0,No,Sí,No
+94,Mujer,22,Ciencias Sociales,8.7,Excelente,No,3,2,219,Sí,Ocasional,5.9,Sí,Sí,No
+95,Hombre,22,Salud,8.9,Excelente,No,3,4,268,No,Nunca,3.7,Sí,Sí,No
+96,Mujer,28,Administración,6.7,Excelente,Sí,1,5,117,No,Ocasional,4.0,No,No,No
+97,Mujer,22,Ciencias Sociales,7.6,Regular,Sí,4,5,91,No,Ocasional,7.4,Sí,No,No
+98,Mujer,23,Salud,7.4,Regular,Sí,4,5,153,No,Frecuente,3.9,Sí,Sí,No
+99,Mujer,23,Salud,10.2,Excelente,Sí,4,2,163,No,Frecuente,7.4,Sí,Sí,No
+100,Mujer,22,Administración,8.5,Excelente,Sí,3,4,205,No,Nunca,6.7,Sí,Sí,No
+101,Mujer,21,Ingeniería,6.5,Mala,No,2,4,42,No,Frecuente,2.8,No,No,No
+102,Hombre,23,Ingeniería,5.9,Regular,No,3,5,239,No,Ocasional,5.0,No,Sí,No
+103,Mujer,20,Ciencias Sociales,5.1,Mala,No,2,4,136,No,Ocasional,8.9,No,No,No
+104,Mujer,21,Administración,7.1,Buena,No,1,3,122,No,Ocasional,4.2,Sí,No,No
+105,Hombre,20,Administración,6.3,Regular,Sí,3,3,109,No,Ocasional,5.7,No,No,No
+106,Mujer,21,Ciencias Sociales,5.2,Mala,Sí,2,7,54,No,Ocasional,7.9,No,No,No
+107,Mujer,25,Ingeniería,6.3,Regular,No,3,3,180,No,Nunca,7.8,No,Sí,No
+108,Hombre,18,Salud,5.9,Regular,No,1,3,184,No,Ocasional,5.8,No,Sí,No
+109,Mujer,22,Ciencias Sociales,8.5,Excelente,No,2,5,74,No,Ocasional,5.0,Sí,No,No
+110,Mujer,18,Ingeniería,7.5,Regular,No,2,7,64,No,Ocasional,9.2,Sí,No,No
+111,Mujer,20,Ingeniería,6.9,Regular,Sí,1,6,117,Sí,Ocasional,9.8,No,No,No
+112,Mujer,23,Administración,8.6,Excelente,No,0,5,237,No,Ocasional,7.7,Sí,Sí,No
+113,Hombre,21,Salud,7.1,Excelente,No,5,3,166,No,Nunca,6.3,Sí,Sí,Sí
+114,Hombre,19,Ingeniería,5.7,Mala,No,2,5,72,No,Frecuente,5.1,No,No,No
+115,Hombre,20,Salud,8.6,Excelente,Sí,1,7,166,No,Frecuente,4.9,Sí,Sí,No
+116,Hombre,22,Ingeniería,7.7,Buena,No,2,1,140,No,Ocasional,7.1,Sí,No,No
+117,Hombre,20,Salud,5.4,Mala,No,0,6,32,Sí,Frecuente,7.8,No,No,No
+118,Mujer,22,Salud,6.7,Regular,Sí,3,7,157,No,Ocasional,9.2,No,Sí,No
+119,Hombre,21,Salud,6.0,Mala,No,0,4,167,No,Frecuente,7.8,No,Sí,No
+120,Mujer,20,Ciencias Sociales,5.8,Regular,Sí,3,3,183,No,Nunca,3.4,No,Sí,No
+121,Hombre,25,Ciencias Sociales,8.3,Buena,No,5,2,267,No,Ocasional,7.8,Sí,Sí,Sí
+122,Hombre,22,Ingeniería,9.1,Excelente,Sí,2,7,217,No,Ocasional,4.3,Sí,Sí,No
+123,Mujer,18,Administración,5.6,Mala,Sí,2,4,130,No,Nunca,5.9,No,No,No
+124,Mujer,22,Ingeniería,7.4,Buena,No,2,4,74,No,Nunca,6.6,Sí,No,No
+125,Mujer,20,Ingeniería,6.4,Excelente,No,3,4,277,No,Ocasional,10.0,No,Sí,No
+126,Mujer,23,Administración,6.6,Excelente,No,6,1,148,No,Ocasional,10.0,No,No,Sí
+127,Hombre,20,Salud,5.9,Regular,No,1,9,181,No,Ocasional,7.9,No,Sí,No
+128,Hombre,21,Administración,6.0,Regular,No,3,4,164,No,Nunca,6.3,No,Sí,No
+129,Mujer,22,Salud,7.1,Mala,No,3,3,171,No,Ocasional,7.1,Sí,Sí,No
+130,Mujer,23,Administración,6.0,Mala,No,2,3,137,Sí,Ocasional,8.3,No,No,No
+131,Mujer,19,Salud,7.3,Regular,Sí,6,5,128,No,Ocasional,5.5,Sí,No,Sí
+132,Mujer,21,Administración,6.6,Mala,No,4,6,115,Sí,Ocasional,9.9,No,No,No
+133,Mujer,20,Ingeniería,6.9,Regular,Sí,2,3,133,No,Ocasional,6.5,No,No,No
+134,Mujer,20,Administración,6.2,Regular,No,1,0,115,No,Ocasional,7.5,No,No,No
+135,Hombre,24,Salud,6.2,Mala,No,2,4,141,Sí,Frecuente,7.9,No,No,No
+136,Mujer,22,Ingeniería,7.9,Excelente,Sí,3,5,141,No,Ocasional,6.9,Sí,No,No
+137,Mujer,19,Administración,7.6,Regular,No,1,2,131,Sí,Ocasional,7.7,Sí,No,No
+138,Hombre,23,Ingeniería,6.2,Buena,No,0,2,238,No,Frecuente,5.1,No,Sí,No
+139,Mujer,25,Ciencias Sociales,6.8,Buena,Sí,4,6,0,No,Ocasional,5.4,No,No,No
+140,Hombre,23,Ciencias Sociales,8.1,Excelente,No,3,1,225,Sí,Nunca,3.7,Sí,Sí,No
+141,Hombre,18,Ingeniería,5.0,Mala,No,2,7,224,No,Nunca,7.5,No,Sí,No
+142,Mujer,20,Ciencias Sociales,7.1,Mala,Sí,5,9,31,Sí,Nunca,8.0,Sí,No,Sí
+143,Mujer,23,Ingeniería,6.2,Buena,No,1,3,116,No,Ocasional,7.5,No,No,No
+144,Mujer,20,Administración,7.6,Excelente,Sí,1,6,125,No,Ocasional,9.7,Sí,No,No
+145,Mujer,22,Salud,6.0,Mala,No,4,3,83,No,Nunca,6.6,No,No,No
+146,Mujer,23,Ingeniería,4.8,Mala,No,2,4,92,Sí,Frecuente,7.9,No,No,No
+147,Hombre,20,Administración,5.1,Mala,No,2,3,104,No,Ocasional,4.5,No,No,No
+148,Mujer,21,Administración,7.6,Excelente,Sí,3,1,241,No,Ocasional,5.1,Sí,Sí,No
+149,Mujer,18,Ingeniería,7.6,Excelente,No,3,0,186,No,Ocasional,7.1,Sí,Sí,No
+150,Mujer,19,Ciencias Sociales,6.3,Mala,No,1,1,215,No,Ocasional,7.9,No,Sí,No

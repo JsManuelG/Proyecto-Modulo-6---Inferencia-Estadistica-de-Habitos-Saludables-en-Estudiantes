@@ -1,0 +1,17 @@
+﻿variable,tipo,descripcion
+id,Identificador,Identificador único del estudiante
+sexo,Cualitativa nominal,Sexo autopercibido
+edad,Cuantitativa discreta,Edad en años
+carrera,Cualitativa nominal,Área académica principal
+horas_sueno,Cuantitativa continua,Promedio de horas dormidas por noche
+calidad_sueno,Cualitativa ordinal,Autopercepción de la calidad del sueño
+desayuna_diario,Cualitativa dicotómica,Desayuna todos los días
+frutas_verduras_dia,Cuantitativa discreta,Porciones promedio de frutas y verduras por día
+ultraprocesados_semana,Cuantitativa discreta,Frecuencia semanal de consumo de ultraprocesados
+actividad_fisica_min_semana,Cuantitativa continua,Minutos de actividad física por semana
+fumador,Cualitativa dicotómica,Consumo de tabaco
+alcohol_frecuencia,Cualitativa ordinal,Frecuencia de consumo de alcohol
+estres_1_10,Cuantitativa continua,Nivel de estrés de 1 a 10
+duerme_7omas,Indicador dicotómico,1 si duerme 7 horas o más
+activo_150,Indicador dicotómico,1 si realiza al menos 150 min de actividad física por semana
+consume_5fyv,Indicador dicotómico,1 si consume 5 o más porciones diarias de frutas y verduras
